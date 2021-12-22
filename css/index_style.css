@@ -73,6 +73,11 @@ span{
     font-size: 2em;
 }
 
+.main--bio{
+    font-weight: 1.5em;
+    text-align: center;
+}
+
 .main--information{
     margin-bottom: 30px;
     display: flex;
